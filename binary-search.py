@@ -2,9 +2,6 @@
 # Algorithmic complexity: O(log n)
 import random
 
-# Complexity: O(N)
-
-
 def binary_search(list, start_index, end_index, objetive):
 
     if start_index > end_index:
